@@ -42,8 +42,8 @@ Edit this document to include your answers after each question. Make sure to lea
 4. How would you describe preprocessing to someone new to CSS?
     It makes writing css less meticulous and allows you to write less code.
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
-   Favorite would be that lessons the amount of code that you have to write in css.
-   
+   Favorite would be that it lessons the amount of code that you have to write in css.
+   the most difficult part for me is navigating the tree.
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
@@ -116,9 +116,9 @@ _You will know everything is working properly when you see the styles enabled fo
 
 ### Mobile Design
 
-* [ ] Create a `@phone` variable that contains a `max-width: 500px` media query string. Use the `@phone` variable for all your nested mobile styling.
+* [x] Create a `@phone` variable that contains a `max-width: 500px` media query string. Use the `@phone` variable for all your nested mobile styling.
 
-* [ ] [Review the provided home mobile design file](design-files/home-mobile.png). Match your mobile styling the best you can using the design file.
+* x] [Review the provided home mobile design file](design-files/home-mobile.png). Match your mobile styling the best you can using the design file.
 
 * [ ] Push your changes and create a pull request if you haven't already.
 
